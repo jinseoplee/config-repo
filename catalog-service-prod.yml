@@ -1,1 +1,2 @@
-greeting: "Welcome to the updated production catalog from the config server"
+greeting:
+  message: "Welcome to the refresh production catalog from the config server"
